@@ -19,7 +19,7 @@ AIVIO is a smart home services app powered by Artificial Intelligence that helps
 ## 📖 Project Overview
 
 AIVIO connects users with trusted home service professionals such as plumbers, electricians, painters, and other technicians.  
-The application uses AI to help users understand their problems, get price estimates, compare ratings, and book services بسهولة وسرعة.
+The application uses AI to help users understand their problems, get price estimates, compare ratings, and book services  .
 
 The goal of AIVIO is to make home services more transparent, safe, and convenient while saving users time, effort, and money.
 
