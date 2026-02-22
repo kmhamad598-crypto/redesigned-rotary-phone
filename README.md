@@ -48,6 +48,9 @@ The goal of AIVIO is to make home services more transparent, safe, and convenien
 
 ## 👨‍💻 Team Members
 
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGo5amhuM296NTVpMDV0aGU1djg2cjBuNXQxb3kxNWZhOG14YjUxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Llifwy28CWFOHtpqdV/giphy.gif"  />
+
+###
 - **Kareem Mohamed**  
 - **Jana Mamdouh**  
 - **Rokaya Abdo**  
