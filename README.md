@@ -1,4 +1,4 @@
-<h1 align="left"> Hi we are AIVIO </h1>
+<h1 align="left"> Hi, we are AIVIO 👋 </h1>
 
 ###
 
